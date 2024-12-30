@@ -39,7 +39,7 @@ npm start
 ```
 The application will be available at http://localhost:3000
 
-### Open Using Daytona  
+## Open Using Daytona  
 
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
 2. **Create the Workspace**:  
