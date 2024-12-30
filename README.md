@@ -4,6 +4,12 @@ A real-time cryptocurrency tracking application that combines price monitoring w
 
 ---
 
+## Tech Stack
+- Typescript
+- CSS
+- React.js
+
+
 ## 🚀 Getting Started  
 
 ## Installation
