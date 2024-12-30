@@ -44,7 +44,7 @@ The application will be available at http://localhost:3000
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
 2. **Create the Workspace**:  
    ```bash  
-   daytona create [https://github.com/Suyash878/Daytona-Sample.git](https://github.com/Suyash878/Sample-Crypto) 
+   daytona create https://github.com/Suyash878/Sample-Crypto 
    ```  
 
 4. **Start the Application**:  
