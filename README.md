@@ -58,3 +58,7 @@ The application will be available at http://localhost:3000
 - Automated data refresh
 - Support for multiple popular cryptocurrencies
 - Historical price data visualization
+
+## Backend
+
+This project's backend is available [here](https://github.com/Suyash878/Web_Scraper_For_crypto)
