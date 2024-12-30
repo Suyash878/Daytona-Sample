@@ -1,6 +1,6 @@
 {
     "name": "Daytona-Sample",
-    "image": "mcr.microsoft.com/vscode/devcontainers/base:0-alpine-3.13",
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:latest",
     "features": {
         "ghcr.io/devcontainers/features/docker-in-docker:1": {}
     },
@@ -16,5 +16,5 @@
     "settings": {
         "terminal.integrated.shell.linux": "/bin/sh"
     },
-    "postCreateCommand": "pip install -r requirements.txt"
+    "postCreateCommand": "pip install --upgrade pip && pip install -r requirements.txt"
 }
