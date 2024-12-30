@@ -45,7 +45,10 @@ The application will be available at http://localhost:3000
 2. **Create the Workspace**:  
    ```bash  
    daytona create https://github.com/Suyash878/Sample-Crypto 
-   ```  
+   ```
+   You for Daytona to pull the image.
+   ![image](https://github.com/user-attachments/assets/f6a3f07d-1f1e-4fab-838a-70d525e9a8ec)
+
 
 4. **Start the Application**:  
    ```bash  
